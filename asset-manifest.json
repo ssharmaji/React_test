@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React_test.git/static/css/main.eb526241.chunk.css",
+    "main.js": "/React_test.git/static/js/main.c2344575.chunk.js",
+    "main.js.map": "/React_test.git/static/js/main.c2344575.chunk.js.map",
+    "runtime-main.js": "/React_test.git/static/js/runtime-main.5c84636a.js",
+    "runtime-main.js.map": "/React_test.git/static/js/runtime-main.5c84636a.js.map",
+    "static/js/2.af6b4a5c.chunk.js": "/React_test.git/static/js/2.af6b4a5c.chunk.js",
+    "static/js/2.af6b4a5c.chunk.js.map": "/React_test.git/static/js/2.af6b4a5c.chunk.js.map",
+    "index.html": "/React_test.git/index.html",
+    "precache-manifest.13853cb8d5686cdc10180be20e15d5a4.js": "/React_test.git/precache-manifest.13853cb8d5686cdc10180be20e15d5a4.js",
+    "service-worker.js": "/React_test.git/service-worker.js",
+    "static/css/main.eb526241.chunk.css.map": "/React_test.git/static/css/main.eb526241.chunk.css.map",
+    "static/js/2.af6b4a5c.chunk.js.LICENSE.txt": "/React_test.git/static/js/2.af6b4a5c.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/React_test.git/static/media/cart.6ca68a8c.svg",
+    "static/media/img-one.jpg": "/React_test.git/static/media/img-one.80298ec2.jpg",
+    "static/media/img-three.jpg": "/React_test.git/static/media/img-three.406580c2.jpg",
+    "static/media/img-two.jpg": "/React_test.git/static/media/img-two.436d396d.jpg",
+    "static/media/logo.svg": "/React_test.git/static/media/logo.5d5d9eef.svg",
+    "static/media/menu.svg": "/React_test.git/static/media/menu.b7808767.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c84636a.js",
+    "static/js/2.af6b4a5c.chunk.js",
+    "static/css/main.eb526241.chunk.css",
+    "static/js/main.c2344575.chunk.js"
+  ]
+}
